@@ -1,4 +1,5 @@
 # Facial-Expression-Detector-Through-Live-Video Using-Python
+<h1>Author & Creator : Sohel Datta</h1>
 The Facial Expression Detector project aims to develop a real-time application that captures live video from a webcam, detects facial expressions, 
 and classifies them into various emotion categories.
 
