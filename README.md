@@ -38,9 +38,9 @@ classify the emotions displayed.
   <ul>  
   <li>Code in bash:</li>
   </ul>
-    <ul>
-      <li>pip install opencv-python deepface numpy matplotlib</li>
-        </ul> 
+  <ul>
+  <li>pip install opencv-python deepface numpy matplotlib</li>
+  <li>Ensure that a webcam is connected and accessible by the system.</li>
       
 </ul>
 
