@@ -44,6 +44,6 @@ classify the emotions displayed.</li>
 
 <br><li>Algorithm Steps:</li>
 <ul>
-<li><b>Capture Video: Use OpenCV to access the webcam and start capturing frames.</b></li>
+<li><b>Capture Video:</b> Use OpenCV to access the webcam and start capturing frames.</li>
 <li></li>
 </ol>
