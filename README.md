@@ -42,6 +42,7 @@ classify the emotions displayed.
   <li>pip install opencv-python deepface numpy matplotlib</li>
   </ul>
   <li>Ensure that a webcam is connected and accessible by the system.</li>
+
       
 </ul>
 
