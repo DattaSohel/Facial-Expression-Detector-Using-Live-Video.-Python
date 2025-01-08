@@ -51,4 +51,5 @@ classify the emotions displayed.</li>
   <li>Convert the detected face region into an appropriate format for analysis.</li>
   <li>Use the DeepFace.analyze() method to classify the emotion of the detected face.</li>
   </ul>
+<li><b>Display Results:</b> Draw rectangles around detected faces and overlay text indicating the predicted emotion.</li>
 </ol>
