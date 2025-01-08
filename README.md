@@ -34,7 +34,7 @@ classify the emotions displayed.
 </ul>
 <li>Setup Instructions:</li>
 <ul>
-  <li>Install required libraries:
+  <li>Install required libraries:</li>
     <ul>  
       <li>Code in bash:<li>
         <ul>
