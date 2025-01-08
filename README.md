@@ -27,6 +27,7 @@ classify the emotions displayed.
 <h2><b>Technical Implementation</b></h2>
 <ol>
 <li>Libraries and Dependencies:</li>
+</ol>
 <ul>
   <li>OpenCV: For video capture and image processing tasks.</li>
   <li>Deepface: A deep learning library that provides pre-trained models for facial emotion detection.</li>
