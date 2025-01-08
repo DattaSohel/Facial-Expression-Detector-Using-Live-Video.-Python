@@ -44,7 +44,7 @@ classify the emotions displayed.
   </ul>
   <li>Ensure that a webcam is connected and accessible by the system.</li>
 
-      
+<li>Algorithm Steps:</li>
 </ul>
 
 </ol>
