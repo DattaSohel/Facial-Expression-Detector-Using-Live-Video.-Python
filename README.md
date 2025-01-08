@@ -46,5 +46,9 @@ classify the emotions displayed.</li>
 <ul>
 <li><b>Capture Video:</b> Use OpenCV to access the webcam and start capturing frames.</li>
 <li><B>Face Detection:</B> Implement Haar Cascade Classifier or a similar method to detect faces within each frame.</li>
-<li
+<li><b>Emotion Analysis:</b></li>
+  <ul>
+  <li>Convert the detected face region into an appropriate format for analysis.</li>
+  <li>Use the DeepFace.analyze() method to classify the emotion of the detected face.</li>
+  </ul>
 </ol>
