@@ -33,7 +33,7 @@ classify the emotions displayed.
   <li>Deepface: A deep learning library that provides pre-trained models for facial emotion detection.</li>
   <li>Matplotlib: For visualizing results if needed.</li>
 </ul>
-<li>Setup Instructions:</li>
+<br><li>Setup Instructions:</li>
 <ul>
   <li>Install required libraries:</li>
   <ul>  
@@ -44,7 +44,7 @@ classify the emotions displayed.
   </ul>
   <li>Ensure that a webcam is connected and accessible by the system.</li>
 </ul>
-<li>Algorithm Steps:</li>
+<br><li>Algorithm Steps:</li>
 </ul>
 
 </ol>
