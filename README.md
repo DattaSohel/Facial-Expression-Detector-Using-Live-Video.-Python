@@ -36,7 +36,7 @@ classify the emotions displayed.
 <ul>
   <li>Install required libraries:
       <br>bash:
-      pip install opencv-python deepface numpy matplotlib</li>
+      <br>pip install opencv-python deepface numpy matplotlib</li>
 
 </ul>
 
