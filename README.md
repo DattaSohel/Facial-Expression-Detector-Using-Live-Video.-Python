@@ -23,3 +23,21 @@ classify the emotions displayed.
 <li>User-Friendly Interface: The application will be designed to be intuitive, requiring minimal user intervention.
 </li>
 </ul>
+
+<h2><b>Technical Implementation</b></h2>
+<ol>
+<li>Libraries and Dependencies:</li>
+<ul>
+  <li>OpenCV: For video capture and image processing tasks.</li>
+  <li>Deepface: A deep learning library that provides pre-trained models for facial emotion detection.</li>
+  <li>Matplotlib: For visualizing results if needed.</li>
+</ul>
+<li>Setup Instructions:</li>
+<ul>
+  <li>Install required libraries:
+      bash
+      pip install opencv-python deepface numpy matplotlib</li>
+
+</ul>
+
+</ol>
