@@ -15,14 +15,10 @@ Utilizing Python's powerful libraries such as OpenCV and Deepface, the applicati
 <h2><b>Key Features</b></h2>
 <ul>
 <li>Real-Time Emotion Detection: The application will continuously capture video frames from the webcam, process each frame to detect faces, and 
-classify the emotions displayed.
-</li>
-<li>Emotion Categories: The system will identify and categorize emotions into seven primary classes: happy, sad, angry, surprised, neutral, disgusted, and fearful.
-</li>
-<li>Visual Feedback: Detected emotions will be annotated on the video feed in real-time, providing immediate feedback to users.
-</li>  
-<li>User-Friendly Interface: The application will be designed to be intuitive, requiring minimal user intervention.
-</li>
+classify the emotions displayed.</li>
+<li>Emotion Categories: The system will identify and categorize emotions into seven primary classes: happy, sad, angry, surprised, neutral, disgusted, and fearful.</li>
+<li>Visual Feedback: Detected emotions will be annotated on the video feed in real-time, providing immediate feedback to users.</li>  
+<li>User-Friendly Interface: The application will be designed to be intuitive, requiring minimal user intervention.</li>
 </ul>
 
 <h2><b>Technical Implementation</b></h2>
@@ -45,6 +41,7 @@ classify the emotions displayed.
   </ul>
   <li>Ensure that a webcam is connected and accessible by the system.</li>
 </ul>
+
 <br><li>Algorithm Steps:</li>
 <li><b>Capture Video: Use OpenCV to access the webcam and start capturing frames.</b></li>
 
