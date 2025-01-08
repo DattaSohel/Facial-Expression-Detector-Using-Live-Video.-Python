@@ -45,5 +45,6 @@ classify the emotions displayed.</li>
 <br><li>Algorithm Steps:</li>
 <ul>
 <li><b>Capture Video:</b> Use OpenCV to access the webcam and start capturing frames.</li>
-<li></li>
+<li>Face Detection: Implement Haar Cascade Classifier or a similar method to detect faces within each frame.</li>
+<li
 </ol>
